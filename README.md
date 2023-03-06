@@ -5,7 +5,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/mohd-faizy/Probabilistic-Deep-Learning-with-TensorFlow)](https://github.com/mohd-faizy/EarthquakePrediction/issues)
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://opensource.com/resources/what-open-source)
 ![Stars GitHub](https://img.shields.io/github/stars/mohd-faizy/EarthquakePrediction)
-[![GitHub license](https://img.shields.io/github/license/mohd-faizy/Probabilistic-Deep-Learning-with-TensorFlow)](https://github.com/mohd-faizy/Probabilistic-Deep-Learning-with-TensorFlow/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/mohd-faizy/EarthquakePrediction)](https://github.com/mohd-faizy/EarthquakePrediction/blob/master/LICENSE)
 [![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square)](https://github.com/mohd-faizy/EarthquakePrediction)
 ![Size](https://img.shields.io/github/repo-size/mohd-faizy/EarthquakePrediction)
 
